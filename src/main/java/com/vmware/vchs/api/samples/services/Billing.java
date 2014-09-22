@@ -23,10 +23,10 @@ import org.apache.http.util.EntityUtils;
 import com.google.gson.Gson;
 import com.vmware.vchs.api.samples.SampleConstants;
 import com.vmware.vchs.api.samples.services.helper.HttpUtils;
-import com.vmware.vchs.vms.billabledata.v5.BilledCostsType;
-import com.vmware.vchs.vms.billabledata.v5.BilledUsageType;
-import com.vmware.vchs.vms.billabledata.v5.ServiceGroupType;
-import com.vmware.vchs.vms.billabledata.v5.ServiceGroupsType;
+import com.vmware.vchs.vms.billabledata.v1.BilledCostsType;
+import com.vmware.vchs.vms.billabledata.v1.BilledUsageType;
+import com.vmware.vchs.vms.billabledata.v1.ServiceGroupType;
+import com.vmware.vchs.vms.billabledata.v1.ServiceGroupsType;
 /**
  * This helper class implements API calls to the metering and billing APIs. This particular class
  * focuses on the billing API calls.

@@ -16,8 +16,8 @@ import org.apache.http.HttpStatus;
 
 import com.vmware.vchs.api.samples.SampleConstants;
 import com.vmware.vchs.api.samples.services.helper.HttpUtils;
-import com.vmware.vchs.vms.billabledata.v5.BillableCostsType;
-import com.vmware.vchs.vms.billabledata.v5.BillableUsageType;
+import com.vmware.vchs.vms.billabledata.v1.BillableCostsType;
+import com.vmware.vchs.vms.billabledata.v1.BillableUsageType;
 /**
  * This helper class implements API calls to the metering and billing APIs. This particular class
  * focuses on the metering API calls.

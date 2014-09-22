@@ -19,11 +19,11 @@ import java.util.List;
 import com.vmware.vchs.api.samples.services.Billing;
 import com.vmware.vchs.api.samples.services.IAM;
 import com.vmware.vchs.api.samples.services.Metering;
-import com.vmware.vchs.vms.billabledata.v5.BillableListType;
-import com.vmware.vchs.vms.billabledata.v5.BillableType;
-import com.vmware.vchs.vms.billabledata.v5.BillableUsageType;
-import com.vmware.vchs.vms.billabledata.v5.BilledUsageType;
-import com.vmware.vchs.vms.billabledata.v5.EntityType;
+import com.vmware.vchs.vms.billabledata.v1.BillableListType;
+import com.vmware.vchs.vms.billabledata.v1.BillableType;
+import com.vmware.vchs.vms.billabledata.v1.BillableUsageType;
+import com.vmware.vchs.vms.billabledata.v1.BilledUsageType;
+import com.vmware.vchs.vms.billabledata.v1.EntityType;
 /**
  * MeteringAndBilling
  * 

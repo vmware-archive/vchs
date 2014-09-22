@@ -14,13 +14,10 @@ package com.vmware.vchs.api.samples.ondemand.endtoend;
 import java.util.List;
 import java.util.Random;
 
-import org.apache.http.HttpStatus;
-
 import com.vmware.vchs.api.samples.services.IAM;
 import com.vmware.vchs.iam.v2.ObjectFactory;
 import com.vmware.vchs.iam.v2.Role;
 import com.vmware.vchs.iam.v2.Roles;
-import com.vmware.vchs.iam.v2.SdpInstance;
 import com.vmware.vchs.iam.v2.User;
 import com.vmware.vchs.iam.v2.Users;
 /**
