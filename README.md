@@ -1,3 +1,5 @@
+# VMware has ended active development of this project, this repository will no longer be updated.
+
 # VMware OnDemand REST API Java Samples
 
 <h3>Requirements</h3>
